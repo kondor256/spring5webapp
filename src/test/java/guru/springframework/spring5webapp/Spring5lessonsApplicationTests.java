@@ -1,13 +1,13 @@
-package ru.kondor256.spring5lessons;
+package guru.springframework.spring5webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring5lessonsApplicationTests {
+class Spring5webappApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
